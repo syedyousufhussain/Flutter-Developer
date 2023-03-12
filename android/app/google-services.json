@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "956816697076",
+    "firebase_url": "https://j-checkup-default-rtdb.firebaseio.com",
+    "project_id": "j-checkup",
+    "storage_bucket": "j-checkup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956816697076:android:e0251f8ed99468e0a8a0a1",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-hEzP3WJIf7VXlEdMterOI-RJyzcHEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956816697076-lv25fc4q45hg17qhrcumitm91jm18r34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailPasswordLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956816697076:android:996538ea4c1843e9a8a0a1",
+        "android_client_info": {
+          "package_name": "com.example.fishing_jet_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-hEzP3WJIf7VXlEdMterOI-RJyzcHEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956816697076-lv25fc4q45hg17qhrcumitm91jm18r34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailPasswordLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956816697076:android:5307f3c6651b627aa8a0a1",
+        "android_client_info": {
+          "package_name": "com.example.fishing_jet_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-hEzP3WJIf7VXlEdMterOI-RJyzcHEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956816697076-lv25fc4q45hg17qhrcumitm91jm18r34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailPasswordLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956816697076:android:0c1fd2ed633e1c71a8a0a1",
+        "android_client_info": {
+          "package_name": "com.example.fishingjet_v5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk-hEzP3WJIf7VXlEdMterOI-RJyzcHEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956816697076-bmss144e6iakmrm9ghm10nj34k0ka13v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956816697076-lv25fc4q45hg17qhrcumitm91jm18r34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailPasswordLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

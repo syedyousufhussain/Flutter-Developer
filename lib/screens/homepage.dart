@@ -217,7 +217,7 @@ class _HomePageState extends State<HomePage> {
                   accountEmail: Text("fishingjet@gmail.com"),
                 ),
                 drawerItem(icon: Icons.person, name: "Profile"),
-                // drawerItem(icon: Icons.add_shopping_cart, name: "Cart"), 
+                
                 ElevatedButton.icon(
                   onPressed: ()async{
                     Navigator.push(
@@ -246,13 +246,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                 ),
-                // Text(
-                //   "Comunicate",
-                //   style: TextStyle(
-                //     color: Colors.white,
-                //     fontSize: 20,
-                //   ),
-                // ),
+                
                 drawerItem(icon: Icons.lock, name: "Change"),
                 ElevatedButton.icon(
                   onPressed: ()async{
@@ -267,7 +261,7 @@ class _HomePageState extends State<HomePage> {
                          backgroundColor: Colors.transparent //elevated btton background color
                       ), //label text 
                     ),
-                // drawerItem(icon: Icons.exit_to_app, name: "Log Out"),
+           
               ],
             ),
           ),
@@ -315,11 +309,7 @@ class _HomePageState extends State<HomePage> {
                 seaFoodrecipe(),
                 seaFastfoods(),
                 drink(),
-                // categoriesContainer(image: 'images/1.png', name: "All"),
-                // categoriesContainer(image: 'images/2.png', name: "Burger"),
-                // categoriesContainer(image: 'images/3.png', name: "Recipe"),
-                // categoriesContainer(image: 'images/4.png', name: "Pizza"),
-                // categoriesContainer(image: 'images/5.png', name: "Drink"),
+              
               ],
             ),
           ),
@@ -357,28 +347,8 @@ class _HomePageState extends State<HomePage> {
                         ),
                       )
                       .toList()
-                  // children: [
-                  //   // bottonContainer(
-                  //   //   image: 'images/2.png',
-                  //   //   name: 'burger1',
-                  //   //   price: 12,
-                  //   // ),
-                  //   // bottonContainer(
-                  //   //   image: 'images/2.png',
-                  //   //   name: 'burger1',
-                  //   //   price: 12,
-                  //   // ),
-                  //   // bottonContainer(
-                  //   //   image: 'images/2.png',
-                  //   //   name: 'burger1',
-                  //   //   price: 12,
-                  //   // ),
-                  //   // bottonContainer(
-                  //   //   image: 'images/2.png',
-                  //   //   name: 'burger1',
-                  //   //   price: 12,
-                  //   // ),
-                  // ],
+                  
+               
                   ),
             ),
           )

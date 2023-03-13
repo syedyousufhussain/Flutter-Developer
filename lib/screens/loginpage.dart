@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'signuppage.dart';
 import 'widgets/my_text_field.dart';
-// import 'package:cloud_firestore/cloud_firestore.dart';
+
 
 class LoginPage extends StatefulWidget {
   static Pattern pattern =
@@ -30,9 +30,7 @@ class _LoginPageState extends State<LoginPage> {
        const snackBar=SnackBar(
         content: Text("No user found for that email"),);
         ScaffoldMessenger.of(context).showSnackBar(snackBar);}
-        // globalKey.currentState.showSnackBar
-        //   SnackBar(
-        //     content: Text('No user found for that email.'),
+     
           
        
        else if (e.code == 'wrong-password') {
@@ -167,20 +165,7 @@ class _LoginPageState extends State<LoginPage> {
                       ),
                     ),
                   ),
-            // Row(
-            //   mainAxisAlignment: MainAxisAlignment.center,
-            //   children: [
-            //     Text(
-            //       "New user?",
-            //       style: TextStyle(color: Colors.grey),
-            //     ),
-            //     Text(
-            //       "Register now.",
-            //       style: TextStyle(color: Colors.red),
-            //     )
-            //   ],
-            // )
-          ],
+                      ],
         ),
       ),
     );

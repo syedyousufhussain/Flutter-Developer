@@ -24,12 +24,7 @@ class _SignUpState extends State<SignUp> {
   TextEditingController password = TextEditingController();
   GlobalKey<ScaffoldState> globalKey = GlobalKey<ScaffoldState>();
 
-  // ScaffoldFeatureController<SnackBar, SnackBarClosedReason>? notificationBar({required String text }){
-    
-  //   return (ScaffoldMessenger.of(context).showSnackBar(SnackBar(content:Text(text)
-  //   ),
-  //   ));
-  // }
+
   Future sendData() async {
     try {
       userCredential =
@@ -70,15 +65,6 @@ class _SignUpState extends State<SignUp> {
       });
   }
 
-  // Future signOut()async{
-  //   try{
-  //     return await auth.signOut();
-  //   }
-  //   catch(e){
-  //       print(e.toString());
-  //       return null;
-  //   }
-  // }
 
   void validation() {
     if (firstName.text.trim().isEmpty || firstName.text.trim() == null) {
